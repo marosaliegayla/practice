@@ -1,0 +1,50 @@
+
+
+
+.kilig img{
+				width: 200px;
+}
+
+.kilig{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				flex-direction: column;
+				gap:3em;
+}
+
+
+body {
+    background-color: #f6ebf4;
+    color: #4b2673;
+}
+
+.ay {
+	text-align: justify;
+    background-image: linear-gradient(
+        to right, #fff, #fff, #fff);
+        border-radius: 10px;
+        padding: 3px 7px; 
+        text-transform: uppercase;
+
+}
+
+h1 { 
+	background-image: linear-gradient(
+        to right, #023b59, #ed0b70, #4b2673);
+        border-radius: 6px;
+        padding: 1px 2px; 
+    color: #f6ebf4;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+
+}
+
+img { 
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
